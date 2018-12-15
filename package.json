@@ -1,0 +1,24 @@
+{
+  "name": "web3-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taptrust/web3-provider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taptrust/web3-provider/issues"
+  },
+  "homepage": "https://github.com/taptrust/web3-provider#readme",
+  "dependencies": {
+    "ethereumjs-wallet": "^0.6.2",
+    "web3": "^1.0.0-beta.37",
+    "web3-provider-engine": "^14.1.0"
+  }
+}
